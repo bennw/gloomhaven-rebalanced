@@ -25,18 +25,21 @@ Guidelines for card changes, in descending order of preference:
 
 1. Change one number
 2. Change multiple related numbers. E.g. Attack 2 at the start of the next 4 turns --> Attack 4 at the start of the next 2 turns
+3. Change the duration or targeting of the action. 
+    - E.g. Retaliate 2 for the turn --> Retaliate 2 on the next 3 attacks
+    - E.g. Affect an ally --> Affect self or an ally
 
-3. Swap numbers or the effects on two different cards
 4. Add, move or remove the Loss symbol and/or XP (since XP is often tied to Loss actions)
     - If necessary, also change one number on the same action to keep the card balanced
-5. Swap the levels of two cards
+5. Swap numbers or the effects on two different cards
+6. Swap the levels of two cards
     - If necessary, also change one number on the same card to keep it balanced
 
-6. Append an effect (Move/Attack/Heal/Shield/Retaliate/status/element)
-7. Add elemental consumption to an existing effect
+7. Append an effect (Move/Attack/Heal/Shield/Retaliate/status/element)
+8. Add elemental consumption to an existing effect
     - Example of nerf: Move 4 --> Move 3, consume element: +1 Move
     - Example of buff: Move 4 --> Move 4, consume element: +1 Move
-8. Replace an action with an entirely new action
+9. Replace an action with an entirely new action
     - This should only be used to resolve balance issues not resolvable by any of the earlier techniques, by creating a new niche for the class. E.g. rebalancing the [level 1 double loss for Sun](Sun/Sun.md).
 
 ## Rebalanced Mechanics
