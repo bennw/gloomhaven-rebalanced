@@ -21,19 +21,22 @@ An intellectual exercise in rebalancing base Gloomhaven.
   - Changes due to [rebalanced mechanics](#rebalanced-mechanics) do not count toward this limit.
   - There are rare cases where this is violated with very specific reasons - [Spellweaver](Spellweaver/Spellweaver.md) is one such example.
   
-Permissible card changes, in descending order of preference:
+Guidelines for card changes, in descending order of preference:
 
 1. Change one number
-2. Change multiple related numbers (e.g. Attack 2 at the start of the next 4 turns --> Attack 4 at the start of the next 2 turns)
+2. Change multiple related numbers. E.g. Attack 2 at the start of the next 4 turns --> Attack 4 at the start of the next 2 turns
 
 3. Swap numbers or the effects on two different cards
-4. Add, move or remove the Loss symbol
+4. Add, move or remove the Loss symbol and/or XP (since XP is often tied to Loss actions)
     - If necessary, also change one number on the same action to keep the card balanced
 5. Swap the levels of two cards
     - If necessary, also change one number on the same card to keep it balanced
 
-6. Append an effect (Move/Attack/Heal/Shield/Retaliate/status)
-7. Replace an action with an entirely new action
+6. Append an effect (Move/Attack/Heal/Shield/Retaliate/status/element)
+7. Add elemental consumption to an existing effect
+    - Example of nerf: Move 4 --> Move 3, consume element: +1 Move
+    - Example of buff: Move 4 --> Move 4, consume element: +1 Move
+8. Replace an action with an entirely new action
     - This should only be used to resolve balance issues not resolvable by any of the earlier techniques, by creating a new niche for the class. E.g. rebalancing the [level 1 double loss for Sun](Sun/Sun.md).
 
 ## Rebalanced Mechanics
