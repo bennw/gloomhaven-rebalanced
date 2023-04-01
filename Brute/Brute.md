@@ -1,4 +1,4 @@
-## BRUTE
+## Brute
 
 <img src="BR/1-provoking-roar.png" width=30%><img src="BR/1-shield-bash.png" width=30%><img src="BR/1x-wall-of-doom.png" width=30%>
 
